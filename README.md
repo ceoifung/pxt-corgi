@@ -1,24 +1,17 @@
+XRBIT-Corgi
+XRBIT DRIVER BOARD FOR MICROBIT
 
-> Open this page at [https://.github.io//](https://.github.io//)
+TODO
+ Add a reference for your blocks here
+ Add "icon.png" image (300x200) in the root folder
+ Add "- beta" to the GitHub project description if you are still iterating it.
+ Turn on your automated build on https://travis-ci.org
+ Use "pxt bump" to create a tagged release on GitHub
+ Get your package reviewed and approved https://makecode.microbit.org/packages/approval
+Read more at https://makecode.microbit.org/packages/build-your-own
 
-## Use as Extension
+License
+MIT
 
-This repository can be added as an **extension** in MakeCode.
-
-* open []()
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/** and import
-
-## Edit this project
-
-To edit this repository in MakeCode.
-
-* open []()
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/** and click import
-
-#### Metadata (used for search, rendering)
-
-* for PXT/
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+Supported targets
+for PXT/microbit (The metadata above is needed for package search.)
