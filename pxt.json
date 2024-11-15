@@ -1,0 +1,25 @@
+{
+    "name": "XRBit-Dog",
+    "version": "0.0.0",
+    "description": "A XiaoRGEEK CorgiDog extention",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "README.md",
+        "main.blocks",
+        "main.ts",
+        "_locales/zh/XRBit_Dog-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj",
+    "license": "MIT"
+}
